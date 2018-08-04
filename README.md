@@ -1,0 +1,2 @@
+# Adtech
+Adtech is short for advertisement technology. Nowadays, statistical methods and Machine Learning are widely used in predicting user behaviors in terms of the interactions with advertisements. This project is a private Kaggle competition of a course Adtech of Master Data Science, Université de Paris Saclay. The goal of this competition is to predict the price that how long users will watch a video advertisement. 
